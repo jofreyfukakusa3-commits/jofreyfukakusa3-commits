@@ -26,7 +26,7 @@
 
 ## Áreas de atuação
 
-<p align="justify">Minha experiência abrange o entendimento das necessidades de negócio, a especificação de soluções e o acompanhamento da qualidade das entregas. Os cards abaixo levam às descrições detalhadas dessas atividades.</p>
+<p align="justify">No meu dia a dia, procuro entender o problema antes de pensar na solução. Gosto de conversar com as áreas envolvidas, organizar os requisitos e acompanhar o resultado até a validação. Separei abaixo as principais frentes em que atuo.</p>
 
 <p align="center">
   <a href="https://github.com/jofreyfukakusa3-commits/portfolio-analise-requisitos/blob/main/competencias/negocio-processos.md"><img src="https://raw.githubusercontent.com/jofreyfukakusa3-commits/portfolio-analise-requisitos/main/assets/card-negocio.svg" alt="Negócio e processos" width="32%" /></a>
@@ -36,16 +36,9 @@
 
 ## Desenvolvimento de software
 
-<p align="justify">Mantenho iniciativas de desenvolvimento em andamento, envolvendo construção e evolução de interfaces, regras funcionais e integrações. Esta seção será ampliada com projetos e evidências técnicas à medida que estiverem preparados para divulgação.</p>
+<p align="justify">Além do trabalho com requisitos, tenho dedicado parte do meu tempo ao desenvolvimento de software. Gosto de colocar as ideias em prática, construir interfaces, trabalhar nas funcionalidades e aprender com os desafios que aparecem durante o desenvolvimento.</p>
 
-**Como apresentarei cada projeto:**
-
-- Objetivo e problema que a aplicação busca resolver.
-- Tecnologias efetivamente utilizadas.
-- Funcionalidades implementadas e pendentes.
-- Evidências de testes, documentação e demonstração, quando disponíveis.
-
-> Projetos ainda não publicados ou restritos não são apresentados aqui como soluções concluídas.
+<p align="justify">Tenho projetos em andamento e nem todos estão prontos para apresentação. Conforme eu concluir etapas e organizar a documentação, vou compartilhar aqui o que já funciona, as tecnologias utilizadas e o que ainda pretendo melhorar.</p>
 
 ## Experiência em projetos
 
