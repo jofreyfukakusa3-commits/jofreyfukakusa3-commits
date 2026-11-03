@@ -34,19 +34,19 @@
 
 ## Experiência em projetos
 
-### SIGES | Gestão e Prestação de Contas
+### Sistema de Gestão e Prestação de Contas | Gestão Pública
 
-<p align="justify">Atuação em análise e refinamento de requisitos, regras de negócio, fluxos de validação e indicadores relacionados à prestação de contas no contexto do AUDESP Fase V.</p>
+<p align="justify">Atuação em análise e refinamento de requisitos, regras de negócio, fluxos de validação e indicadores relacionados à gestão e prestação de contas.</p>
 
-### Remédio SP | Soluções Digitais em Saúde
+### Sistema de Gestão de Serviços de Saúde | Transformação Digital
 
-<p align="justify">Atuação em análise de requisitos, prototipação, regras de negócio e validação funcional de processos relacionados à gestão de solicitações e medicamentos.</p>
+<p align="justify">Atuação em análise de requisitos, prototipação, regras de negócio e validação funcional de processos relacionados à gestão de solicitações e serviços de saúde.</p>
 
 *As experiências institucionais são apresentadas apenas de forma descritiva, sem exposição de código ou conteúdo restrito.*
 
 ## Portfólio e estudos de caso
 
-<p align="justify">O portfólio completo reúne competências, experiências e um estudo de caso relacionado ao levantamento de requisitos para um sistema de gestão de padaria.</p>
+<p align="justify">O portfólio completo reúne competências, experiências e um estudo de caso relacionado ao levantamento de requisitos para um sistema de gestão comercial.</p>
 
 <p align="center">
 <a href="https://github.com/jofreyfukakusa3-commits/portfolio-analise-requisitos"><img src="https://raw.githubusercontent.com/jofreyfukakusa3-commits/portfolio-analise-requisitos/main/assets/botao-github.svg" alt="Acessar portfólio completo" height="43" /></a>
