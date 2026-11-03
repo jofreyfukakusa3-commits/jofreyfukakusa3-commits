@@ -6,9 +6,9 @@
 
 <div align="center">
 
-### Análise de Negócios · Engenharia de Requisitos · Desenvolvimento de Software
+### Análise de Negócios · Engenharia de Requisitos · Governança de TI
 
-**Da compreensão do negócio à construção e validação de soluções digitais.**
+**Da compreensão do negócio à validação das soluções.**
 
 <a href="https://www.linkedin.com/in/jofrey-fukakusa/"><img src="https://raw.githubusercontent.com/jofreyfukakusa3-commits/portfolio-analise-requisitos/main/assets/botao-linkedin.svg" alt="Acessar LinkedIn profissional" height="43" /></a>&nbsp;&nbsp;<a href="https://github.com/jofreyfukakusa3-commits/portfolio-analise-requisitos"><img src="https://raw.githubusercontent.com/jofreyfukakusa3-commits/portfolio-analise-requisitos/main/assets/botao-github.svg" alt="Explorar portfólio técnico" height="43" /></a>
 
@@ -20,9 +20,7 @@
 
 <p align="justify">Sou <strong>Analista de Negócios e Requisitos</strong>, com experiência em levantamento, documentação, refinamento, homologação e acompanhamento do desenvolvimento de sistemas.</p>
 
-<p align="justify">Também desenvolvo projetos de software, ainda em diferentes estágios de evolução. Busco ampliar minha atuação profissional em <strong>desenvolvimento de aplicações</strong>, combinando visão de negócio, análise de requisitos e implementação de soluções digitais.</p>
-
-<p align="justify">Atualmente, participo de iniciativas de modernização de sistemas na <strong>Secretaria de Estado da Saúde de São Paulo</strong>. Tenho interesse em oportunidades de <strong>Análise de Negócios e Requisitos</strong> e de <strong>Desenvolvimento de Software</strong>.</p>
+<p align="justify">Atualmente, participo de iniciativas de modernização de sistemas na <strong>Secretaria de Estado da Saúde de São Paulo</strong>. Minha atuação é voltada à análise de processos, requisitos, regras de negócio e validação funcional.</p>
 
 ## Áreas de atuação
 
@@ -33,12 +31,6 @@
   <a href="https://github.com/jofreyfukakusa3-commits/portfolio-analise-requisitos/blob/main/competencias/requisitos-solucao.md"><img src="https://raw.githubusercontent.com/jofreyfukakusa3-commits/portfolio-analise-requisitos/main/assets/card-requisitos.svg" alt="Requisitos e solução" width="32%" /></a>
   <a href="https://github.com/jofreyfukakusa3-commits/portfolio-analise-requisitos/blob/main/competencias/entrega-qualidade.md"><img src="https://raw.githubusercontent.com/jofreyfukakusa3-commits/portfolio-analise-requisitos/main/assets/card-entrega.svg" alt="Entrega e qualidade" width="32%" /></a>
 </p>
-
-## Desenvolvimento de software
-
-<p align="justify">Além do trabalho com requisitos, tenho dedicado parte do meu tempo ao desenvolvimento de software. Gosto de colocar as ideias em prática, construir interfaces, trabalhar nas funcionalidades e aprender com os desafios que aparecem durante o desenvolvimento.</p>
-
-<p align="justify">Tenho projetos em andamento e nem todos estão prontos para apresentação. Conforme eu concluir etapas e organizar a documentação, vou compartilhar aqui o que já funciona, as tecnologias utilizadas e o que ainda pretendo melhorar.</p>
 
 ## Experiência em projetos
 
